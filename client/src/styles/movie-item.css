@@ -1,0 +1,25 @@
+.movie-item {
+  margin: auto;
+  margin-top: 3vh;
+  max-width: 100%;
+  border: 1px solid white;
+  border-radius: 5px;
+  height: 360.953px;
+  text-align: center;
+}
+
+.movie-item img {
+  height: 200px;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.movie-item h3 {
+  font-family: "IM Fell French Canon SC", serif;
+  max-width: 100%;
+  padding: center;
+}
+
+.movie-item p {
+  padding-bottom: 1px;
+}
